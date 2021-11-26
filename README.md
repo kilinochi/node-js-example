@@ -1,1 +1,2 @@
-# node-js-example
+#### Запускаем сервер
+npm start
